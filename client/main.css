@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    color: grey;
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+}
